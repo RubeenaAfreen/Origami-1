@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.heading{
+  color: #fff;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+}
+.menu{background:lightsalmon;
+width: 100%;
+float: left;
+padding: 20px;
+margin: 0;}
+.menu li{
+  list-style: none;
+  float: left;
+  margin-right: 15px;
+  text-decoration: underline;
+}
+.menu li a{
+  padding-bottom: 15px;
+  color: #000;
+}
+
+.full-width{width: 100%; float: left;}
+.orig-list li{
+  list-style: none;
+  
+  margin-bottom: 15px;
+ 
+}
+.orig-list li a{
+  padding-bottom: 15px;
+  color: #000;
+}
+.orig-list p{
+width: 800px;
+}
